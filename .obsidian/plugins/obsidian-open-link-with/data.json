@@ -1,0 +1,19 @@
+{
+  "selected": "_in_app",
+  "custom": {},
+  "modifierBindings": [],
+  "enableLog": false,
+  "timeout": 500,
+  "inAppViewRec": [
+    {
+      "leafId": "fbbff049bb01ea01",
+      "url": "https://aws.amazon.com/vi/compare/the-difference-between-mariadb-vs-mysql/",
+      "mode": 1
+    },
+    {
+      "leafId": "656a97c8b1f62c24",
+      "url": "https://aws.amazon.com/vi/compare/the-difference-between-mariadb-vs-mysql/",
+      "mode": 1
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d42544ea907fac99",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3bfc31f914eb16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea86bce4e7690caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Service/Overview/Introduction.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33a52279190eaaa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f87c6d02b7cbaee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7f6e8a3997089e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d865de6bd3a33018",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5842a24af50092cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d9661a930d58ba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc247d9f7ca97e64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b40014eafea40f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technical/Service/Overview/Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f38362551fcb9e8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technical/Service/Overview/Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "20f036ccdac3dc62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc45cbc41bfdb4cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technical/Service/Overview/Introduction.md"
+              }
+            }
+          },
+          {
+            "id": "a8b6eb84f6ddecf0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-rich-links:Rich Links": false
+    }
+  },
+  "active": "ea86bce4e7690caf",
+  "lastOpenFiles": [
+    "Technical/DataBase/MySQL (MariaDB)/Compare MariaDB with MySQL.md",
+    "Technical/Service/Overview/Introduction.md",
+    "Technical/Service/Overview",
+    "Technical/Service",
+    "Untitled.canvas",
+    "2024-04-02.md",
+    "Technical/DataBase/MySQL (MariaDB)/Concepts/Sharding and Partitioning.md",
+    "Technical/DataBase/MySQL (MariaDB)/Concepts",
+    "Technical/WPF Application/UI xaml/Binding.md",
+    "Technical/DataBase/MySQL (MariaDB)",
+    "Technical/DataBase/SQLServer/Untitled",
+    "Technical/DataBase/SQLServer",
+    "Technical/DataBase",
+    "Technical/WPF Application/UI xaml/Behavior.md",
+    "Technical/WPF Application/UI xaml/Style.md",
+    "Technical/WPF Application/UI xaml/Control/ChartControl.md",
+    "Technical/WPF Application/UI xaml/Control/GridControl.md",
+    "Technical/Develop SW/Document.md",
+    "Technical/WPF Application/UI xaml/Control",
+    "Technical/WPF Application/UI xaml",
+    "Technical/Develop SW"
+  ]
+}
