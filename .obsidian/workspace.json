@@ -13,13 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Service/Overview/Introduction.md",
-                "mode": "preview",
+                "file": "Technical/Product/RTS/Training/1. Setup.md",
+                "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d8273bc96fe3964",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical/Product/RTS/Training/2. New product System.md"
+              }
+            }
+          },
+          {
+            "id": "1e752f3da15b61e6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7ec7e4fee220ea9",
+            "type": "leaf",
+            "state": {
+              "type": "OOLW::InAppView",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,13 +112,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Service/Overview/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Service/Overview/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technical/Service/Overview/Introduction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,11 +160,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,29 +180,44 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "f7f6e8a3997089e9",
+  "active": "1e752f3da15b61e6",
   "lastOpenFiles": [
-    "Technical/Unity/1.txt",
-    "Technical/Unity/New Text Document.txt",
-    "Technical/Unity",
-    "Technical/DataBase/MySQL (MariaDB)/Compare MariaDB with MySQL.md",
-    "Technical/Service/Overview/Introduction.md",
-    "Technical/Service/Overview",
-    "Technical/Service",
-    "Untitled.canvas",
-    "2024-04-02.md",
-    "Technical/DataBase/MySQL (MariaDB)/Concepts/Sharding and Partitioning.md",
-    "Technical/DataBase/MySQL (MariaDB)/Concepts",
-    "Technical/WPF Application/UI xaml/Binding.md",
-    "Technical/DataBase/MySQL (MariaDB)",
-    "Technical/DataBase/SQLServer/Untitled",
-    "Technical/DataBase/SQLServer",
-    "Technical/DataBase",
-    "Technical/WPF Application/UI xaml/Behavior.md",
-    "Technical/WPF Application/UI xaml/Style.md",
-    "Technical/WPF Application/UI xaml/Control/ChartControl.md",
-    "Technical/WPF Application/UI xaml/Control/GridControl.md",
-    "Technical/Develop SW/Document.md",
-    "Technical/WPF Application/UI xaml/Control"
+    "Technical/WPF Application/WPF Application.md",
+    "Technical/Community/TCP IP/Introduction.md",
+    "Technical/Product/RTS/Training/2. New product System.md",
+    "Technical/DataBase/DataBase.md",
+    "Technical/Community/TCP IP/TCP IP.md",
+    "Technical/Community/Community.md",
+    "Technical/Community/TCP IP",
+    "Technical/Product/RTS/Training/Concepts.md",
+    "Technical/Community",
+    "Technical/Product/Product.md",
+    "Technical/CSharp & .NET/Dotnet/Task Parallel Library (TPL).md",
+    "Technical/CSharp & .NET/Dotnet/Dotnet.md",
+    "Technical/CSharp & .NET/CSharp1/CSharp1.md",
+    "Technical/CSharp & .NET/CSharp1/Queue & Stack.md",
+    "Technical/CSharp & .NET/CSharp1",
+    "Technical/CSharp & .NET/CSharp & .NET.md",
+    "Technical/CSharp & .NET/Dotnet",
+    "Technical/CSharp & .NET",
+    "Technical/Product/RTS/RTS.md",
+    "Technical/Product/RTS/Training/3. Pipline.md",
+    "Technical/Product/RTOS/Training/3. Pipeline.md",
+    "Technical/Product/RTS/Training/1. Setup.md",
+    "Technical/Product/RTS/Training/Training.md",
+    "Tools/Obsidian/Settings.md",
+    "Tools/Obsidian/Plugin.md",
+    "Technical/DataBase/MySQL (MariaDB)/MySQL (MariaDB).md",
+    "Technical/DataBase/SQLServer/SQLServer.md",
+    "Technical/Technical.md",
+    "Resources",
+    "CSharp.md",
+    "Technical List.md",
+    "Tools/Obsidian/Untitled",
+    "Tools/Obsidian",
+    "Tools",
+    "Products",
+    "Technical/Product/RTOS/RtoS.md",
+    "Untitled.canvas"
   ]
 }
