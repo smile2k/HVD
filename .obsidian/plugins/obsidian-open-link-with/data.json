@@ -6,6 +6,16 @@
   "timeout": 500,
   "inAppViewRec": [
     {
+      "leafId": "0e1aed0bb2c4e9c6",
+      "url": "https://learn.microsoft.com/en-us/dotnet/api/system.net.ipaddress",
+      "mode": 1
+    },
+    {
+      "leafId": "da6a6accd4ed5e0a",
+      "url": "https://wiki.matbao.net/tcp-ip-la-gi-uu-va-nhuoc-diem-cua-tcp-ip-so-voi-mo-hinh-osi/?gad_source=1&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaLbi6b0fBmg0qhbTok1jA-7Sm33_kqpJ8e8TP9YNwhQtKwHnZHI81YaAi90EALw_wcB",
+      "mode": 1
+    },
+    {
       "leafId": "d7ec7e4fee220ea9",
       "url": "https://wiki.matbao.net/tcp-ip-la-gi-uu-va-nhuoc-diem-cua-tcp-ip-so-voi-mo-hinh-osi/?gad_source=1&gclid=Cj0KCQjwn7mwBhCiARIsAGoxjaLbi6b0fBmg0qhbTok1jA-7Sm33_kqpJ8e8TP9YNwhQtKwHnZHI81YaAi90EALw_wcB",
       "mode": 1

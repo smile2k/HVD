@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea86bce4e7690caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical/Product/RTS/Training/1. Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5d8273bc96fe3964",
             "type": "leaf",
             "state": {
@@ -38,15 +26,39 @@
             }
           },
           {
-            "id": "d7ec7e4fee220ea9",
+            "id": "da6a6accd4ed5e0a",
             "type": "leaf",
             "state": {
               "type": "OOLW::InAppView",
               "state": {}
             }
+          },
+          {
+            "id": "c778ecadd0bbc641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Community/TCP IP/MessagePack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea15c3c7c569de51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Community/TCP IP/TCP Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "right": {
     "id": "9d9661a930d58ba2",
@@ -112,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technical/Community/TCP IP/TCP Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technical/Community/TCP IP/TCP Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technical/Community/TCP IP/TCP Overview.md"
+              }
             }
           },
           {
@@ -180,14 +196,18 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "1e752f3da15b61e6",
+  "active": "ea15c3c7c569de51",
   "lastOpenFiles": [
-    "Technical/WPF Application/WPF Application.md",
-    "Technical/Community/TCP IP/Introduction.md",
+    "Technical/Community/TCP IP/MessagePack.md",
     "Technical/Product/RTS/Training/2. New product System.md",
-    "Technical/DataBase/DataBase.md",
+    "Technical/Product/RTS/Training/1. Setup.md",
+    "Technical/Community/TCP IP/TCP Overview.md",
+    "Technical/Community/TCP IP/Introduction.md",
     "Technical/Community/TCP IP/TCP IP.md",
     "Technical/Community/Community.md",
+    "Technical/CSharp & .NET/CSharp1/Lazy Loading.md",
+    "Technical/WPF Application/WPF Application.md",
+    "Technical/DataBase/DataBase.md",
     "Technical/Community/TCP IP",
     "Technical/Product/RTS/Training/Concepts.md",
     "Technical/Community",
@@ -203,7 +223,6 @@
     "Technical/Product/RTS/RTS.md",
     "Technical/Product/RTS/Training/3. Pipline.md",
     "Technical/Product/RTOS/Training/3. Pipeline.md",
-    "Technical/Product/RTS/Training/1. Setup.md",
     "Technical/Product/RTS/Training/Training.md",
     "Tools/Obsidian/Settings.md",
     "Tools/Obsidian/Plugin.md",
@@ -211,13 +230,10 @@
     "Technical/DataBase/SQLServer/SQLServer.md",
     "Technical/Technical.md",
     "Resources",
-    "CSharp.md",
-    "Technical List.md",
     "Tools/Obsidian/Untitled",
     "Tools/Obsidian",
     "Tools",
     "Products",
-    "Technical/Product/RTOS/RtoS.md",
     "Untitled.canvas"
   ]
 }
