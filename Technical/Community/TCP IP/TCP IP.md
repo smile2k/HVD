@@ -6,7 +6,7 @@ type: folder_brief_live
  
 ---
 %% Begin Waypoint %%
-- [[Introduction]]
+- [[Technical/Community/TCP IP/Introduction]]
 - [[MessagePack]]
 - [[TCP Overview]]
 

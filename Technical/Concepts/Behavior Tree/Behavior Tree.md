@@ -1,4 +1,4 @@
-# Product Overview
+# Behavior Tree Overview
  
 ```ccard
 type: folder_brief_live
@@ -6,8 +6,6 @@ type: folder_brief_live
  
 ---
 %% Begin Waypoint %%
-- **CommonLib**
-	- [[DefectType]]
-- **[[RTS]]**
+- [[Example Introduction]]
 
 %% End Waypoint %%
