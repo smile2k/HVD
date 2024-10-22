@@ -18,14 +18,6 @@
             }
           },
           {
-            "id": "1e752f3da15b61e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "da6a6accd4ed5e0a",
             "type": "leaf",
             "state": {
@@ -39,9 +31,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Concepts/Behavior Tree/Example Introduction.md",
+                "file": "Technical/Concepts/1. Behavior Tree/Meaning.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2fd3edb338d99de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Concepts/Concepts.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "99fc27f79dd7d95d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Build_Version/Steps to build version.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "29c3451ed3665199",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical/Product/NoteApp/Setting_Design.md"
+              }
+            }
+          },
+          {
+            "id": "ea94d9ca3e3e80a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
               }
             }
           },
@@ -51,9 +87,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/CSharp & .NET/CSharp1/Unit Test.md",
+                "file": "Technical/FrameWork/Prism FrameWork/Notes from Document/Event Aggregator/PusSubEvent Class.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -65,16 +101,8 @@
               "state": {
                 "file": "Technical/Product/RTS/Training/Concepts.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
-          },
-          {
-            "id": "ddc5530b915c16c1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -108,7 +136,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -128,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 317.5
   },
   "right": {
     "id": "9d9661a930d58ba2",
@@ -144,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/CSharp & .NET/CSharp1/Unit Test.md",
+                "file": "Technical/Build_Version/Steps to build version.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/CSharp & .NET/CSharp1/Unit Test.md",
+                "file": "Technical/Build_Version/Steps to build version.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/CSharp & .NET/CSharp1/Unit Test.md"
+                "file": "Technical/Build_Version/Steps to build version.md"
               }
             }
           },
@@ -216,46 +244,54 @@
       "obsidian-rich-links:Rich Links": false
     }
   },
-  "active": "29c7656fa221edff",
+  "active": "99fc27f79dd7d95d",
   "lastOpenFiles": [
-    "Technical/CSharp & .NET/CSharp1/CSharp1.md",
-    "Technical/CSharp & .NET/CSharp1/Unit Test.md",
-    "Technical/CSharp & .NET/CSharp1/Queue & Stack.md",
-    "Technical/CSharp & .NET/CSharp1/Lazy Loading.md",
-    "Technical/Concepts/Data Lake/Introduction.md",
-    "Technical/Concepts/Data Lake/Data Lake.md",
-    "Technical/Concepts/Behavior Tree/Behavior Tree.md",
-    "Technical/Concepts/Behavior Tree/Example Introduction.md",
-    "Technical/Concepts/Data Lake",
-    "Technical/Product/RTS/Training/Concepts.md",
-    "Technical/Community/TCP IP/MessagePack.md",
-    "Technical/Community/TCP IP/Introduction.md",
-    "Technical/Concepts/Pipeline/Pipeline.md",
-    "Technical/Concepts/Pipeline",
+    "Technical/Product/NoteApp/Setting_Design.md",
+    "Technical/DataBase/DataBase.md",
+    "Technical/Product/Product.md",
+    "Technical/WPF Application/WPF Application.md",
+    "Tools/Obsidian/Settings.md",
+    "Tools/Obsidian/Plugin.md",
+    "Technical/Community/Community.md",
     "Technical/Concepts/Concepts.md",
     "Technical/Technical.md",
-    "Technical/Concepts/Behavior Tree",
-    "Technical/Concepts",
-    "Technical/TO DO.md",
+    "Tools/Nhap.md",
+    "Pasted Image 20241007112335_282.png",
+    "Technical/Product/RTS/Training/2. New product System.md",
+    "Resources/Pasted Image 20240807155944_334.png",
+    "Resources/Diagram_BT_paint.png",
+    "Technical/Concepts/1. Behavior Tree/Diagram.md",
+    "Technical/Product/NoteApp",
+    "Technical/Develop SW Process/UI.md",
+    "Technical/Concepts/1. Behavior Tree/Meaning.md",
     "Technical/CSharp & .NET/CSharp & .NET.md",
-    "Technical/Product/Product.md",
-    "Technical/Community/TCP IP/TCP Overview.md",
-    "Technical/Community/TCP IP/TCP IP.md",
-    "Technical/Community/Community.md",
-    "Technical/FrameWork/Prism FrameWork/Notes from Document/Command/Composite Commands.md",
-    "Technical/FrameWork/Prism FrameWork/Notes from Document/Command/IActivateAware.md",
-    "Technical/FrameWork/Prism FrameWork/Notes from Document/Command/DelegateCommand.md",
-    "Technical/FrameWork/Prism FrameWork/Notes from Document/Command/Commanding.md",
-    "Technical/FrameWork/Prism FrameWork/Notes from Document/Command/Command.md",
-    "Technical/WPF Application/UI xaml/Control/ChartControl.md",
-    "Pasted Image 20240412105419_083.png",
-    "Pasted Image 20240412104933_054.png",
-    "Technical/Product/CommonLib",
-    "Technical/Community/TCP IP",
-    "Technical/Community",
-    "Technical/CSharp & .NET/CSharp1",
-    "Technical/CSharp & .NET/Dotnet",
-    "Technical/CSharp & .NET",
+    "Technical/Concepts/1. Behavior Tree/Example Introduction.md",
+    "Resources/Pasted Image 20240821100427_160.png",
+    "Resources/Pasted Image 20240821095242_116.png",
+    "Resources/Pasted Image 20240821095227_107.png",
+    "Technical/Concepts/1. Behavior Tree/1. Behavior Tree.md",
+    "Technical/Product/CommonLib/DefectType.md",
+    "Technical/Service/Overview/Introduction.md",
+    "Project/Repeat3/Diagram/Sequence_LoadMCA.md",
+    "Resources/Pasted Image 20240807162815_503.png",
+    "Resources/Pasted Image 20240807162300_480.png",
+    "Resources/Pasted Image 20240807162159_455.png",
+    "Resources/Pasted Image 20240807161859_426.png",
+    "Project/Repeat3/Diagram/UseCase_MCA.md",
+    "Technical/Build_Version/Steps to build version.md",
+    "Project/Repeat3/Diagram",
+    "Project/Repeat3",
+    "Project",
+    "Resources/Untitled",
+    "Technical/Build_Version",
+    "Technical/CSharp & .NET/Dotnet/Dotnet.md",
+    "Technical/CSharp & .NET/CSharp1/CSharp1.md",
+    "Technical/CSharp & .NET/CSharp_Basic/CSharp_Basic.md",
+    "Technical/CSharp & .NET/CSharp_Basic/7. Extension Method.md",
+    "Technical/C++/OpenCV",
+    "Technical/C++/C++ Advanced",
+    "Technical/C++",
+    "Technical/Concepts/3. Design Pattern/3. Behavioral",
     "Untitled.canvas"
   ]
 }

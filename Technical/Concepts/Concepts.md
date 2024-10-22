@@ -6,8 +6,14 @@ type: folder_brief_live
  
 ---
 %% Begin Waypoint %%
-- **[[Behavior Tree]]**
-- **[[Data Lake]]**
-- **[[Pipeline]]**
+- **[[1. Behavior Tree]]**
+- **[[2. Data Lake]]**
+- **3. Design Pattern**
+	- **1. Creational**
+	- **2. Structural**
+		- [[Adapter Pattern]]
+	- **3. Behavioral**
+	- [[Overview]]
+- **[[4. Pipeline]]**
 
 %% End Waypoint %%

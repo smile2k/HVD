@@ -6,5 +6,6 @@
   "obsidian-rich-links",
   "obsidian-open-link-with",
   "folder-note-plugin",
-  "waypoint"
+  "waypoint",
+  "hugo-codeblock-highlight"
 ]
